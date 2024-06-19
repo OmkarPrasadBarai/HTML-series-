@@ -1,0 +1,10 @@
+m1=50;
+m2=65;
+m3=65;
+tm=m1+m2+m3;
+per=(tm*100)/300;
+console.log("mark of 1st sub=",m1);
+console.log("mark of 2nd sub=",m2);
+console.log("mark of 3rd sub=",m3);
+console.log("total mark=",tm);
+console.log("percentage secured=",per);
